@@ -1,4 +1,4 @@
-package com.edutech.Gestion_pagos_factura;
+package com.edutech.GestionPagosFactura;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

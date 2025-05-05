@@ -1,4 +1,4 @@
-package com.edutech.Gestion_pagos_factura;
+package com.edutech.GestionPagosFactura;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
